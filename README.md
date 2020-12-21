@@ -6,7 +6,8 @@ Code Path 'Intro to Mobile Product Development' Prework App
 ![Hello_World](https://user-images.githubusercontent.com/74347165/102743281-25aedd80-4325-11eb-9d79-f456b67ec35d.gif)
 
 
-<img src="![Hello_World](https://user-images.githubusercontent.com/74347165/102743281-25aedd80-4325-11eb-9d79-f456b67ec35d.gif" width=200><br>
+<img src="![Hello_World](https://user-images.githubusercontent.com/74347165/102743281-25aedd80-4325-11eb-9d79-f456b67ec35d.gif)
+" width=200><br>
 
 
 
