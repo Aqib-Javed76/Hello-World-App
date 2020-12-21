@@ -2,7 +2,7 @@
 
 ### App Description
 Code Path 'Intro to Mobile Product Development' Prework App
-### App Walk-though
+### App Walk-through
 ![Hello_World](https://user-images.githubusercontent.com/74347165/102744143-1c267500-4327-11eb-893b-fb96e4fb7c43.gif)
 
 
