@@ -1,15 +1,14 @@
-## NAME_OF_YOUR_APP_HERE
+## Hello_World App
 
 ### App Description
-`TODO://` Add app description
-
+Code Path 'Intro to Mobile Product Development' Prework App
 ### App Walk-though
 `TODO://`![Hello_World](https://user-images.githubusercontent.com/74347165/102743281-25aedd80-4325-11eb-9d79-f456b67ec35d.gif)
- Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="![Hello_World](https://user-images.githubusercontent.com/74347165/102743281-25aedd80-4325-11eb-9d79-f456b67ec35d.gif" width=200><br>
+
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
